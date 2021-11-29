@@ -18,7 +18,9 @@ En el siguiente enlace encontrarás todos los archivos relacionados con el proye
 
 ![App Screenshot](https://i.ibb.co/c1b5Hh6/pest-libro-1.png)
 
+## Vista2
 
+![App Screenshot](https://i.ibb.co/5kzY2FK/pest-libro-2.png)
 ## 
 ## 
 
