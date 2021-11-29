@@ -16,7 +16,7 @@ En el siguiente enlace encontrarás todos los archivos relacionados con el proye
 
 ## Vista y Diseño 
 
-![App Screenshot](https://i.ibb.co/h2swNtC/libro-opt.png)
+![App Screenshot](https://i.ibb.co/c1b5Hh6/pest-libro-1.png)
 
 
 ## 
