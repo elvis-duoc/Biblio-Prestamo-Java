@@ -11,7 +11,7 @@ Proyecto desarrollado para la asignatura de "Arquitectura".
 ## Documentación del Proyecto
 
 En el siguiente enlace encontrarás todos los archivos relacionados con el proyecto
-[CARPETA_ENLACE](https://drive.google.com/drive/folders/171XCSNHN0kZN3q8G54NnbHXVBHNFCe2-?usp=sharing)
+[Enlace](https://drive.google.com/drive/folders/171XCSNHN0kZN3q8G54NnbHXVBHNFCe2-?usp=sharing)
 
 
 ## Vista y Diseño 
